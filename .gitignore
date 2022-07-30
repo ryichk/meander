@@ -5,7 +5,7 @@
 *.so
 *.dylib
 # go buildで生成されるバイナリ
-meander
+cmd/cmd
 
 # Test binary, built with `go test -c`
 *.test
